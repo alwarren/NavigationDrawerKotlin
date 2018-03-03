@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Navigation Demo</string>
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_preferences">Preferences</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="main_activity">MainActivity</string>
+    <string name="navigation_header">Navigation Header</string>
+    <string name="second_activity">SecondActivity</string>
+</resources>
